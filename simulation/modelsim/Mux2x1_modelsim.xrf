@@ -1,0 +1,16 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/CLIENTE/Documents/lab2 - parte1/Mux2x1.vhd
+source_file = 1, C:/Users/CLIENTE/Documents/lab2 - parte1/Mux2x1_portas.vhd
+source_file = 1, C:/Users/CLIENTE/Documents/lab2 - parte1/Mux4x1.vhd
+source_file = 1, C:/Users/CLIENTE/Documents/lab2 - parte1/Mux2x1_4bit.vhd
+source_file = 1, C:/Users/CLIENTE/Documents/lab2 - parte1/db/Mux2x1.cbx.xml
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = Mux2x1
+instance = comp, \s0~I\, s0, Mux2x1, 1
+instance = comp, \I1~I\, I1, Mux2x1, 1
+instance = comp, \I0~I\, I0, Mux2x1, 1
+instance = comp, \d~0\, d~0, Mux2x1, 1
+instance = comp, \d~I\, d, Mux2x1, 1
